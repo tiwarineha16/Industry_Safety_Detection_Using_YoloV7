@@ -1,6 +1,8 @@
 # Industry_Safety_Detection_Using_YoloV7
 
 
+
+
 # Git commands
 
 ```bash
@@ -12,12 +14,11 @@ git push origin main
 
 # How to run
 ```bash
-conda create -n isd python=3.10 -y
-```
+conda create -n safety python=3.8 -y
 
 # Activate the environment
 ```bash
-conda activate isd
+conda activate safety
 ```
 
 # Install the packages
