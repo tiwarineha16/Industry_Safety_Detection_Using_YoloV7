@@ -17,6 +17,7 @@ git push origin main
 # How to run
 ```bash
 conda create -n safety python=3.8 -y
+```
 
 # Activate the environment
 ```bash
@@ -26,3 +27,4 @@ conda activate safety
 # Install the packages
 ```bash
 pip install -r requirements.txt
+```
